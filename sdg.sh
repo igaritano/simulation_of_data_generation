@@ -35,7 +35,7 @@
 #  2.- output file
 #  3.- time interval in seconds
 #
-# ./datasources.sh input_file output_file time_interval
+# ./sdg.sh input_file output_file time_interval
 #
 ######################################################################
 
